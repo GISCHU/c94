@@ -1,0 +1,10 @@
+html, body
+{
+  height: 100%;
+  margin: 100;
+}
+
+body
+{
+background-color:rgb(209, 188, 227);
+}
